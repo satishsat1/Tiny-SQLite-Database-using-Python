@@ -1,6 +1,7 @@
 # Tiny-SQLite-Database-using-Python
 
 📊 Sales Summary Using SQLite and Python
+
 ✅ Project Overview
 
 This project demonstrates how to use SQLite within Python to store, query, and analyze sales data. It covers creating a database, inserting sample data, summarizing sales through SQL queries, and visualizing the results using pandas and matplotlib.

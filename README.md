@@ -50,7 +50,7 @@ Provides beginner-friendly, well-documented code for learning purposes.
 
 🚀 How to Run
 1. Clone the repository:
-git clone https://github.com/yourusername/Tiny-SQLite-Database-using-Python.git
+git clone https://github.com/satishsat1/Tiny-SQLite-Database-using-Python.git
 cd Tiny-SQLite-Database-using-Python
 
 2. Install required Python libraries:
